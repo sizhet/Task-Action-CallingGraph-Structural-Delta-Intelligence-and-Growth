@@ -1362,7 +1362,8 @@ Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth/
 │   ├── TACG-SDIG-004-Two-Way-Delta-Localization-Search-and-Candidate-Reconstruction.md
 │   ├── TACG-SDIG-005-Delta-Memory-Folding-and-Structural-Evolution-Trajectories.md
 │   ├── TACG-SDIG-006-Delta-Scoped-Structural-Governance-and-Security.md
-│   └── TACG-SDIG-007-From-Human-Engineering-Practice-to-AI-Coding-Growth.md
+│   ├── TACG-SDIG-007-From-Human-Engineering-Practice-to-AI-Coding-Growth.md
+│   └── TACG-SDIG-008-Delta-Intelligence-and-Per-Node-Intelligence.md
 │
 └── figures/
     ├── Fig-001-TACG-SDIG-Grand-Map.png
