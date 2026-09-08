@@ -1,0 +1,64 @@
+{
+"title": "General Framework of Structural Folding and Unfolding Intelligence",
+"description": "GFSFUI — General Framework of Structural Folding and Unfolding Intelligence — presents a general research and engineering framework for organizing intelligence around the continuous movement between concrete experience and reusable structural knowledge. The framework connects Generic Structural Representation, Structural Folding, Metric Differential structures, Cluster-Central CCCs, Core and Delta, Per-Node Intelligence, Structural Search, Two-Way Structural Search, Counter-Evidence, Structural Falsification, sparse-data structural learning, Structural Unfolding, CallingGraph generation, Local UTN, context-preserving identity, validation, certification, continual structural growth, and Refolding. Its canonical lifecycle is: Represent → Fold → Localize → Search → Challenge → Unfold → Validate → Certify → Grow → Refold. Three canonical demonstrations provide complementary views of the framework: Stock Market Structural Folding for large-population Folding, Biomedical Structural Search for sparse-data learning and falsification, and CallingGraph Fold–Unfold for structural generation, validation, certification, and Refolding. GFSFUI also forms a complementary three-DOI Structural Folding front with SMSF and CSFR, connecting concrete application, reusable structural mechanisms, and the general Fold–Unfold framework.",
+"creators": [
+{
+"name": "Tan, Sizhe"
+}
+],
+"keywords": [
+"Structural Intelligence",
+"Structural Folding",
+"Structural Unfolding",
+"GFSFUI",
+"GenericContainerStarmap",
+"Metric Differential Tree",
+"Metric Differential Structure",
+"CCC",
+"Cluster-Central CCC",
+"Structural DNA",
+"Core and Delta",
+"Per-Node Intelligence",
+"Structural Search",
+"Structural Search Plane",
+"Two-Way Structural Search",
+"Counter-Evidence",
+"Structural Falsification",
+"Continual Structural Learning",
+"Sparse-Data Intelligence",
+"3-Cat Structural Learning",
+"CallingGraph",
+"CallingGraph Unfolding",
+"UTN",
+"Local UTN",
+"Identity Resolution",
+"Context-Preserving Unification",
+"Fold-Guided UTN Evolution",
+"Structural Certification",
+"Collective Structural Learning"
+],
+"license": "Apache-2.0",
+"upload_type": "publication",
+"publication_type": "technicalnote",
+"access_right": "open",
+"version": "1.0.0",
+"language": "eng",
+"related_identifiers": [
+{
+"identifier": "https://github.com/sizhet/General-Framework-of-Structural-Folding-and-Unfolding-Intelligence",
+"relation": "isSupplementTo",
+"scheme": "url"
+}
+],
+"communities": [],
+"notes": "GFSFUI is presented as a general research and engineering framework rather than a completed universal theory of intelligence. The repository emphasizes structural representation, Folding, localization, search, counter-evidence, Unfolding, validation, certification, continual growth, and Refolding. The initial v1.0.0 release is intentionally text- and figure-centered; domain-specific runtime implementations can evolve separately.",
+"references": [
+"SMSF — Stock Market Structural Folding",
+"CSFR — Structural Folding runtime and reusable structural mechanisms",
+"STAR — Structural Theory of AI Reasoning",
+"SCL — Structural Continual Learning",
+"CGU — CallingGraph Unfolding for AI Coding",
+"GSUI — General Structure Unfolding Intelligence",
+"FUI — Folding / Unfolding Intelligence"
+]
+}
