@@ -758,6 +758,10 @@ of the engineering change.
 
 ---
 
+![Fig-003-Graph-Minus-and-Task-Action-Delta-Pair.png](../figures/Fig-003-Graph-Minus-and-Task-Action-Delta-Pair.png)
+
+---
+
 # 13. Canonical Delta Taxonomy
 
 Graph Minus should classify structural differences rather than returning one undifferentiated change list.

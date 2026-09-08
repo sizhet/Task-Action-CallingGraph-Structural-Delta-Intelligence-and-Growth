@@ -281,6 +281,10 @@ and potentially:
 
 ---
 
+![Fig-005-Delta-Memory-and-Structural-Evolution-Trajectory.png](../figures/Fig-005-Delta-Memory-and-Structural-Evolution-Trajectory.png)
+
+---
+
 # 7. Delta as an Engineering Experience Unit
 
 A raw graph edit is not necessarily a useful memory object.

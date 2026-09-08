@@ -865,6 +865,10 @@ The residual becomes the next local problem.
 
 ---
 
+![Fig-007-Human-Engineering-Experience-to-Structural-AI-Coding.png](../figures/Fig-007-Human-Engineering-Experience-to-Structural-AI-Coding.png)
+
+---
+
 # 25. Residual Delta Enables Incremental Reasoning
 
 Instead of discarding a partially useful candidate:

@@ -186,6 +186,10 @@ A TACG-SDIG runtime may move between them repeatedly during localization, search
 
 ---
 
+![Fig-002-Four-Structural-Planes-and-1A-1N-Knowledge-Model.png](../figures/Fig-002-Four-Structural-Planes-and-1A-1N-Knowledge-Model.png)
+
+---
+
 # 3. Plane I — Task Structural Plane
 
 The Task Structural Plane represents desired work.

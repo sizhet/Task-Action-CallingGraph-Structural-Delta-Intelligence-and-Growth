@@ -117,6 +117,10 @@ That question introduces the central object of TACG-SDIG:
 
 ---
 
+![Fig-001-TACG-SDIG-Grand-Map.png](../figures/Fig-001-TACG-SDIG-Grand-Map.png)
+
+---
+
 # 2. The Engineering Question Is Often a Delta Question
 
 Consider a senior engineer receiving a new requirement for an existing system.

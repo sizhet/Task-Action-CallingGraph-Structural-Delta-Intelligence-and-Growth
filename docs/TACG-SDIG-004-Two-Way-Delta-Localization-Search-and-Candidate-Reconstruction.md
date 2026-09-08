@@ -236,6 +236,10 @@ Two-way search lets one side explain and constrain the other.
 
 ---
 
+![Fig-004-Two-Way-Delta-Search-and-Growth-Runtime.png](../figures/Fig-004-Two-Way-Delta-Search-and-Growth-Runtime.png)
+
+---
+
 # 5. Canonical Runtime Inputs
 
 The runtime may begin from several input configurations.
