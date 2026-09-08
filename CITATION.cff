@@ -1,75 +1,68 @@
 ```yaml
 cff-version: 1.2.0
-message: "If you use this work, please cite it using the metadata below."
 
-title: "General Framework of Structural Folding and Unfolding Intelligence"
+message: >-
+  If you use or reference this repository, please cite it using the metadata below.
+
+title: "Task–Action CallingGraph Structural Delta Intelligence and Growth"
+
+type: software
 
 version: "1.0.0"
 
-type: software
+date-released: "2026-09-08"
 
 authors:
   - family-names: "Tan"
     given-names: "Sizhe"
 
-abstract: >
-  GFSFUI — General Framework of Structural Folding and Unfolding Intelligence —
-  is a general research and engineering framework for organizing intelligence
-  around the continuous movement between concrete experience and reusable
-  structural knowledge. The framework connects Generic Structural
-  Representation, Structural Folding, Metric Differential structures,
-  Cluster-Central CCCs, Core and Delta, Per-Node Intelligence, Structural
-  Search, Two-Way Search, Counter-Evidence, Structural Falsification,
-  sparse-data structural learning, Structural Unfolding, CallingGraph
-  generation, Local UTN, context-preserving identity, validation,
-  certification, continual structural growth, and Refolding.
+abstract: >-
+  TACG-SDIG develops a structural AI coding framework centered on Structural
+  Delta Intelligence. The framework represents Task and Action CallingGraphs,
+  localizes known structural neighborhoods, applies Graph Minus to isolate
+  meaningful Task-side and Action-side deltas, performs two-way Delta Search,
+  reconstructs candidate changes, validates reachability, feasibility, policy,
+  security, and counter-evidence, and folds validated outcomes back into
+  structural memory. The repository further develops Delta Memory, Task–Action
+  Delta Pairs, Delta CCC/DNA structures, structural evolution trajectories,
+  and Delta-Scoped Structural Governance for AI coding.
 
 keywords:
+  - "Structural Delta Intelligence"
+  - "Task CallingGraph"
+  - "Action CallingGraph"
+  - "CallingGraph"
+  - "Graph Minus"
+  - "Task–Action Delta Pair"
+  - "TADP"
+  - "Delta Search"
+  - "Delta Memory"
+  - "Delta CCC"
+  - "Delta DNA"
+  - "Structural Evolution Trajectory"
+  - "Trajectory Intelligence"
+  - "Structural Governance"
+  - "Delta-Scoped Governance"
+  - "AI Coding"
   - "Structural Intelligence"
   - "Structural Folding"
   - "Structural Unfolding"
-  - "GFSFUI"
-  - "GenericContainerStarmap"
-  - "Metric Differential Tree"
-  - "Metric Differential Structure"
-  - "CCC"
-  - "Structural DNA"
-  - "Core and Delta"
-  - "Per-Node Intelligence"
-  - "Structural Search"
-  - "Two-Way Search"
-  - "Counter-Evidence"
-  - "Structural Falsification"
   - "Continual Learning"
-  - "Sparse-Data Intelligence"
-  - "3-Cat Structural Learning"
-  - "CallingGraph"
-  - "CallingGraph Unfolding"
-  - "UTN"
-  - "Identity Resolution"
-  - "Collective Structural Learning"
 
-repository-code: "https://github.com/sizhet/General-Framework-of-Structural-Folding-and-Unfolding-Intelligence"
+repository-code: "https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth"
 
-url: "https://github.com/sizhet/General-Framework-of-Structural-Folding-and-Unfolding-Intelligence"
+url: "https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth"
 
 license: "Apache-2.0"
 
 preferred-citation:
-  type: publication
-  title: "General Framework of Structural Folding and Unfolding Intelligence"
+  type: software
+  title: "Task–Action CallingGraph Structural Delta Intelligence and Growth"
   version: "1.0.0"
-
+  date-released: "2026-09-08"
   authors:
     - family-names: "Tan"
       given-names: "Sizhe"
-
-  year: 2026
-
-  repository-code: "https://github.com/sizhet/General-Framework-of-Structural-Folding-and-Unfolding-Intelligence"
-
-  url: "https://github.com/sizhet/General-Framework-of-Structural-Folding-and-Unfolding-Intelligence"
-
-  license: "Apache-2.0"
-
-  doi: 10.5281/zenodo.22650614
+  repository-code: "https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth"
+  url: "https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth"
+```
