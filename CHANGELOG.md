@@ -46,7 +46,7 @@ for the full research roadmap.
 
 ---
 
-# [1.0.0] — 2026-09-08
+# [1.0.0] — 2026-09-09
 
 ## Initial DOI Repository Release
 

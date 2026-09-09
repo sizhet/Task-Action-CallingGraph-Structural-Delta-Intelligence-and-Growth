@@ -10,7 +10,7 @@ type: software
 
 version: "1.0.0"
 
-date-released: "2026-09-08"
+date-released: "2026-09-09"
 
 authors:
   - family-names: "Tan"
@@ -59,7 +59,7 @@ preferred-citation:
   type: software
   title: "Task–Action CallingGraph Structural Delta Intelligence and Growth"
   version: "1.0.0"
-  date-released: "2026-09-08"
+  date-released: "2026-09-09"
   authors:
     - family-names: "Tan"
       given-names: "Sizhe"

@@ -2282,7 +2282,7 @@ Migrate to Event-Driven Architecture
 Used for one bounded historical engineering event.
 
 ```text
-Security Patch 2026-08
+Security Patch 2026-09
 ```
 
 ---
