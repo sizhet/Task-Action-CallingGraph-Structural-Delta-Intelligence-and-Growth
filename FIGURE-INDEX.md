@@ -17,7 +17,7 @@ This file provides the canonical index, placement guidance, and recommended capt
 | Fig-005 | `Fig-005-Delta-Memory-and-Structural-Evolution-Trajectory.png`     | TACG-SDIG-005   | Delta Memory, folding, CCC/DNA, and trajectories            |
 | Fig-006 | `Fig-006-Delta-Scoped-Governance-and-Security.png`                 | TACG-SDIG-006   | Delta-scoped governance, reachability, and security         |
 | Fig-007 | `Fig-007-Human-Engineering-Experience-to-Structural-AI-Coding.png` | TACG-SDIG-007   | Human engineering practice translated into AI coding growth |
-
+| Fig-008 | `Fig-008-Delta-Intelligence-and-Per-Node-Intelligence.png`         | TACG-SDIG-008   | Delta-Intelligence and Per-Node-Intelligence in the framework |
 ---
 
 # Fig-001 — TACG-SDIG Grand Map

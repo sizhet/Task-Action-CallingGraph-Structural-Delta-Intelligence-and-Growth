@@ -872,6 +872,8 @@ Fig-005-Delta-Memory-and-Structural-Evolution-Trajectory.png
 Fig-006-Delta-Scoped-Governance-and-Security.png
 
 Fig-007-Human-Engineering-Experience-to-Structural-AI-Coding.png
+
+Fig-008-Delta-Intelligence-and-Per-Node-Intelligence.png
 ```
 
 The figures provide a visual progression from overall architecture to knowledge model, Delta extraction, runtime, memory, governance, and Human–AI engineering growth.
