@@ -1144,7 +1144,7 @@ This article connects the whole framework back to practical engineering behavior
 
 ---
 
-# 27. Seven Figures
+# 27. Eight Figures
 
 Use the figures in parallel with the articles.
 

@@ -1318,7 +1318,7 @@ Connects senior engineering practice with the complete TACG-SDIG closed-loop run
 
 # 30. Canonical Figures
 
-The repository contains seven companion figures:
+The repository contains eight companion figures:
 
 ```text
 Fig-001-TACG-SDIG-Grand-Map.png

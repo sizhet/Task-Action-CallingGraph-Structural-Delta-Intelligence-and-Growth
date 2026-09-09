@@ -1021,7 +1021,7 @@ Human Engineering Practice mapped
 
 Eight articles completed
 
-Seven figures completed
+Eight figures completed
 
 Repository navigation completed
 ```

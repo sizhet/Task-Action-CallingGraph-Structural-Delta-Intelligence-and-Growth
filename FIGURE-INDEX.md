@@ -756,9 +756,9 @@ Fig-007
 
 near the final Human Engineering / AI Growth synthesis.
 
-Avoid embedding all seven figures in the README unless a visual-heavy version is intentionally desired.
+Avoid embedding all eight figures in the README unless a visual-heavy version is intentionally desired.
 
-The full seven-figure sequence is better preserved in the core articles and this Figure Index.
+The full eight-figure sequence is better preserved in the core articles and this Figure Index.
 
 ---
 
@@ -784,7 +784,7 @@ For root-level files such as `README.md`:
 
 # Figure Design Principles
 
-The seven TACG-SDIG figures should preserve a consistent visual language.
+The eight TACG-SDIG figures should preserve a consistent visual language.
 
 ## 1. Structure Before Decoration
 
@@ -878,9 +878,9 @@ rather than ending at code generation.
 
 ---
 
-# Seven-Figure Narrative
+# Eight-Figure Narrative
 
-The seven figures together tell one continuous story.
+The eight figures together tell one continuous story.
 
 ```text
 Fig-001
@@ -926,7 +926,7 @@ and AI coding growth?
 
 # Final Figure Summary
 
-The seven TACG-SDIG figures correspond to seven conceptual layers:
+The eight TACG-SDIG figures correspond to seven conceptual layers:
 
 ```text
 Fig-001
