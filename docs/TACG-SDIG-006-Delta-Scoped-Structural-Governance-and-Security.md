@@ -490,10 +490,6 @@ Governance should not stop at the changed node.
 
 ---
 
-![Fig-006-Delta-Scoped-Governance-and-Security.png](../figures/Fig-006-Delta-Scoped-Governance-and-Security.png)
-
----
-
 # 15. Why the Halo Matters
 
 Suppose a change adds:
@@ -552,6 +548,10 @@ High Risk
 Critical Risk
 → broad structural and specialist review
 ```
+
+---
+
+![Fig-006-Delta-Scoped-Governance-and-Security.png](../figures/Fig-006-Delta-Scoped-Governance-and-Security.png)
 
 ---
 
