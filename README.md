@@ -1372,7 +1372,10 @@ Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth/
     ├── Fig-004-Two-Way-Delta-Search-and-Growth-Runtime.png
     ├── Fig-005-Delta-Memory-and-Structural-Evolution-Trajectory.png
     ├── Fig-006-Delta-Scoped-Governance-and-Security.png
-    └── Fig-007-Human-Engineering-Experience-to-Structural-AI-Coding.png
+    ├── Fig-007-Human-Engineering-Experience-to-Structural-AI-Coding.png
+    └── Fig-008-Delta-Intelligence-and-Per-Node-Intelligence.png
+
+---
 ```
 
 ---

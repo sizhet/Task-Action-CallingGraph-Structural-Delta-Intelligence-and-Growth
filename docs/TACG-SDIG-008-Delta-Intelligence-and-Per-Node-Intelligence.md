@@ -74,6 +74,10 @@ This relationship provides a practical path from distributed intelligence toward
 
 ---
 
+![Fig-008-Delta-Intelligence-and-Per-Node-Intelligence.png](../figures/Fig-008-Delta-Intelligence-and-Per-Node-Intelligence.png)
+
+---
+
 # 1. Why This Comparison Matters
 
 As Structural Intelligence frameworks grow, several concepts can appear superficially similar:
