@@ -219,3 +219,6 @@
     Fold experience into structure. Search where the structure holds and where it fails. Unfold structural memory toward new goals. Validate the result, and fold the new experience back into a growing intelligence. \
     Repository: https://github.com/sizhet/General-Framework-of-Structural-Folding-and-Unfolding-Intelligence       
     
+64. Task–Action CallingGraph Structural Delta Intelligence and Growth (TACG-SDIG) - \
+    Two-Way Localization, Delta Search, Trajectory Learning, and Structural Governance for AI Coding. \
+    Repository: https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth
