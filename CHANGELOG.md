@@ -806,9 +806,9 @@ FOLD BACK
 
 ---
 
-# Added — Seven Core Research Articles
+# Added — Eight Core Research Articles
 
-The v1.0.0 release includes seven primary research articles.
+The v1.0.0 release includes eight primary research articles.
 
 ```text id="zzj6yf"
 TACG-SDIG-001
@@ -854,7 +854,7 @@ to AI Coding Growth
 
 ---
 
-# Added — Seven Canonical Figures
+# Added — Eight Canonical Figures
 
 The first release includes:
 
@@ -1019,7 +1019,7 @@ Delta-Scoped Governance defined
 
 Human Engineering Practice mapped
 
-Seven articles completed
+Eight articles completed
 
 Seven figures completed
 

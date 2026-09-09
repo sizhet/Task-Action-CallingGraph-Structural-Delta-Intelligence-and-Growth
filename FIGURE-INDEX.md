@@ -2,7 +2,7 @@
 
 ## Task–Action CallingGraph Structural Delta Intelligence and Growth
 
-This file provides the canonical index, placement guidance, and recommended captions for the seven TACG-SDIG figures.
+This file provides the canonical index, placement guidance, and recommended captions for the eight TACG-SDIG figures.
 
 ---
 
@@ -703,7 +703,7 @@ to Structural AI Coding
 
 # Recommended Figure Reading Sequence
 
-For readers who want to understand the repository visually before reading all seven articles:
+For readers who want to understand the repository visually before reading all eight articles:
 
 ```text
 Fig-001

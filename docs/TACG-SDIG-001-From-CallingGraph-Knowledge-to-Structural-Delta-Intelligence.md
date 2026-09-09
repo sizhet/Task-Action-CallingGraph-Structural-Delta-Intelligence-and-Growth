@@ -289,7 +289,7 @@ The important change is conceptual:
 
 # 5. The Canonical TACG-SDIG Knowledge Structure
 
-The initial Task–Action CallingGraph model contains seven foundational structures.
+The initial Task–Action CallingGraph model contains eight foundational structures.
 
 TACG-SDIG extends them with seven Delta Intelligence structures.
 

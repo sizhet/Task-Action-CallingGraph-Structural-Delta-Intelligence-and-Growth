@@ -1256,9 +1256,9 @@ Or in words:
 
 ---
 
-# 29. Seven Core Articles
+# 29. Eight Core Articles
 
-The repository is organized around seven primary articles.
+The repository is organized around eight primary articles.
 
 ### TACG-SDIG-001
 

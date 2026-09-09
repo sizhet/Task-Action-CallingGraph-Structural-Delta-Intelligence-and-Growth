@@ -3549,7 +3549,7 @@ That is the path from **Human Engineering Practice** to **AI Coding Growth**.
 
 ## Repository-Level Closing Statement
 
-The seven TACG-SDIG core articles together establish a progression from CallingGraph knowledge to structural evolution intelligence:
+The eight TACG-SDIG core articles together establish a progression from CallingGraph knowledge to structural evolution intelligence:
 
 ```text
 TACG-SDIG-001

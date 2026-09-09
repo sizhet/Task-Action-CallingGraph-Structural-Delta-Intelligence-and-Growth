@@ -3612,7 +3612,7 @@ in one compact MVP.
 
 # 109. Relationship to the TACG-SDIG Article Series
 
-The first seven TACG-SDIG articles establish:
+The first eight TACG-SDIG articles establish:
 
 ```text
 001

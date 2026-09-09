@@ -11,7 +11,7 @@ This file provides the canonical navigation structure for the TACG-SDIG reposito
 For first-time readers:
 
 * [`README.md`](./README.md)
-  Repository overview, core ideas, architecture, and seven-article map.
+  Repository overview, core ideas, architecture, and eight-article map.
 
 * [`START-HERE.md`](./START-HERE.md)
   10–15 minute guided introduction with the minimal running example and recommended reading paths.
@@ -20,7 +20,7 @@ For first-time readers:
 
 # 2. Core Research Articles
 
-The repository is organized around seven primary articles.
+The repository is organized around eight primary articles.
 
 ## TACG-SDIG-001
 
@@ -715,7 +715,7 @@ The following statements capture the core repository philosophy.
 
 # 12. Repository-Level Research Flow
 
-The seven articles form one continuous research arc:
+The eight articles form one continuous research arc:
 
 ```text
 001
