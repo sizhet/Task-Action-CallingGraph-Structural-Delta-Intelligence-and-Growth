@@ -1,4 +1,3 @@
-```yaml
 cff-version: 1.2.0
 
 message: >-
@@ -65,4 +64,4 @@ preferred-citation:
       given-names: "Sizhe"
   repository-code: "https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth"
   url: "https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth"
-```
+
